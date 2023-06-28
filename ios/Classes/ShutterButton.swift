@@ -16,6 +16,8 @@ final class ShutterButton: UIControl {
     
     private let outterRingRatio: CGFloat = 0.80
     private let innerRingRatio: CGFloat = 0.75
+
+    // private let ringColor: CGColor
     
     private let impactFeedbackGenerator = UIImpactFeedbackGenerator(style: .light)
     
